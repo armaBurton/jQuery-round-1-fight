@@ -1,0 +1,23 @@
+div {
+  margin-bottom: 10px;
+}
+
+#div1,
+#div3 {
+  margin: auto;
+  text-align: center;
+  border: 3px black dotted;
+  font-size: 30px;
+  background-color: cadetblue;
+  height: 300px;
+  width: 300px;
+}
+#div2 {
+  margin: auto;
+  text-align: center;
+  border: 3px black dotted;
+  font-size: 30px;
+  background-color: yellow;
+  height: 300px;
+  width: 300px;
+}
