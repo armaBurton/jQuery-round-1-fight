@@ -1,0 +1,24 @@
+{
+  "name": "jquery-round-1-fight",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armaBurton/jQuery-round-1-fight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armaBurton/jQuery-round-1-fight/issues"
+  },
+  "homepage": "https://github.com/armaBurton/jQuery-round-1-fight#readme",
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "jsdom": "^21.0.0"
+  }
+}
